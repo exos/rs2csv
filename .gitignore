@@ -1,0 +1,6 @@
+*~
+._*
+*.swap
+/test
+/node_modules
+/examples/output_example.csv

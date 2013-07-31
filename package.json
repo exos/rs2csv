@@ -1,0 +1,22 @@
+{
+    "name": "rs2csv"
+  , "version": "0.0.1"
+  , "author": "Oscar Javier Gentilezza Arenas <tioscar@gmail.com> (http://blog.exodica.com.ar/)"
+  , "license": "GPL2"
+  , "description": "Generate a CSV (comma-separated values) from a recordset like array"
+  , "private": false
+  , "dependencies": {
+        "underscore": "1.5.1"
+  }
+  ,"repository": {
+       "type": "git"
+     , "url": "https://github.com/exos/rs2csv.git"
+   }
+  ,"keywords": [
+      "CSV"
+    , "Exel"
+    , "Data file"
+    , "Recordset"
+    , "export table"
+  ]
+}
