@@ -23,7 +23,7 @@ $ npm install -d
 Use
 ===
 
-```
+```javascript
 var rs2csv = require('rs2csv');
 
 // And rest
@@ -42,7 +42,7 @@ db.query("SELECT * FROM Products", function (err, results) {
 
 ## Save direct to a file!
 
-```
+```javascript
 var rs2csv = require('rs2csv');
 
 // And rest
@@ -61,7 +61,7 @@ db.query("SELECT * FROM Products", function (err, results) {
 
 ## Using with express (and others...)
 
-```
+```javascript
 var rs2csv = require('rs2csv');
 
 // And rest
